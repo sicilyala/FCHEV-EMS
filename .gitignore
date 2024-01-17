@@ -1,0 +1,6 @@
+# ignore files listed below
+
+*.pyc
+/.idea/
+/common/data/
+*.zip
