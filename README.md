@@ -3,10 +3,15 @@ title = {Health-considered energy management strategy for fuel cell hybrid elect
 journal = {Energy Conversion and Management},
 
 volume = {292},
+
 pages = {117362},
+
 year = {2023},
+
 issn = {0196-8904},
+
 doi = {https://doi.org/10.1016/j.enconman.2023.117362},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0196890423007082},
 
 author = {Weiqi Chen and Jiankun Peng and Jun Chen and Jiaxuan Zhou and Zhongbao Wei and Chunye Ma},
