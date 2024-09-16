@@ -26,6 +26,7 @@ Deep reinforcement learning-based energy management strategy (EMS) is essential 
   volume={292},
   pages={117362},
   year={2023},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  url={https://www.sciencedirect.com/science/article/abs/pii/S0196890423007082}
 }
 ```
